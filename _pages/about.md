@@ -1,7 +1,7 @@
 ---
 layout: about
 title: Solmaz Abbaspour
-permalink: /
+permalink: /solmaz
 
 
 profile:
